@@ -1,0 +1,5 @@
+APP:
+    PORT: 8080
+    DEBUG: true
+    ALLOWORIGINS:
+        - http://localhost:3000
